@@ -1,5 +1,5 @@
 // test issue
-// code confrict
+// test deploy
 const server = require("server");
 const chalk = require("chalk");
 const ora = require("ora");
